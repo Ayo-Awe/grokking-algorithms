@@ -38,6 +38,9 @@ To get started with the code in this repository, follow these steps:
 The following algorithms and exercises from the book are implemented in this repository:
 
 - Binary Search
+- Selection Sort
+- Recursive Max
+- Recursive Len
 
 Each algorithm has its own dedicated Python file in the algorithms directory.
 
